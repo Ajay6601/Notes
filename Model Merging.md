@@ -1,4 +1,3 @@
-# LLM Advanced Topics - The Deep Truth Behind the Hype
 
 **What tutorials don't tell you: Real production stories, failure modes, and the messy reality**
 
